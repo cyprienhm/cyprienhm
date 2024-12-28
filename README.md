@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+**I'm Cyprien, a Machine Learning Engineer working mainly on computer vision.**
+
+- ⚙️ `.py`, `.c`
+- ✨ my personal website: [cyprien.dev](https://cyprien.dev)
+- 🔭 i’m currently working on: building my own shell in C
+- 💬 how to reach me: contact at cyprien dot dev
+
 <!--
 **cyprienhm/cyprienhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
