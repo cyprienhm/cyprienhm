@@ -1,9 +1,14 @@
-## Hi 👋
+## Hi, i'm Cyprien👋
 
-**I'm Cyprien, machine learning engineer, from 🇨🇦, working on computer vision**
+i'm a machine learning engineer in computer vision;
 
-- ⚙️ i know: `.py`, `.c`
+i studied aerospace engineering;
+
+i live in Canada 🇨🇦;
+
 - ✨ my personal website: [cyprien.dev](https://cyprien.dev)
+- ⚙️ i know: `.py`, `.c`
+- 🌱 i'm learning: `.go`
 - 🎨 my profile picture: made it myself, using as inspiration this [chill pikachu pic](https://www.reddit.com/r/MemeRestoration/comments/tedpo8/would_anyone_be_able_to_restore_chill_pikachu/)
 - 🔭 i’m currently working on: building my own shell in C
 - 💬 how to reach me: contact at cyprien dot dev
