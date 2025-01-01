@@ -4,6 +4,7 @@
 
 - ⚙️ `.py`, `.c`
 - ✨ my personal website: [cyprien.dev](https://cyprien.dev)
+- 🎨 made my profile picture myself, using as inspiration this [chill pikachu pic](https://www.reddit.com/r/MemeRestoration/comments/tedpo8/would_anyone_be_able_to_restore_chill_pikachu/)
 - 🔭 i’m currently working on: building my own shell in C
 - 💬 how to reach me: contact at cyprien dot dev
 
